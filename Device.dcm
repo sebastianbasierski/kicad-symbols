@@ -66,6 +66,12 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP CMDC-09250-HF
+D EMI 2-inductor-filter
+K EMI filter
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c30e.ashx?la=en-gb
+$ENDCMP
+#
 $CMP CP
 D Polarised capacitor
 K cap capacitor
@@ -607,6 +613,12 @@ F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/
 $ENDCMP
 #
 $CMP EMI_Filter_CommonMode
+D EMI 2-inductor common-mode-filter
+K EMI common mode filter
+F ~
+$ENDCMP
+#
+$CMP EMI_Filter_CommonMode_0
 D EMI 2-inductor common-mode-filter
 K EMI common mode filter
 F ~
