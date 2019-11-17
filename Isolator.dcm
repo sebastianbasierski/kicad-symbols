@@ -1242,6 +1242,12 @@ K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320
 F http://www.vishay.com/docs/83675/sfh620a.pdf
 $ENDCMP
 #
+$CMP Si8602AC-B-IS
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 1.0kV isolation, Fail-Safe Low, QSOP-16
+K 4Ch 4In Quad Digital Isolator 150Mbps
+F https://www.silabs.com/documents/public/data-sheets/Si860x.pdf
+$ENDCMP
+#
 $CMP Si8640BA-B-IU
 D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 1.0kV isolation, Fail-Safe Low, QSOP-16
 K 4Ch 4In Quad Digital Isolator 150Mbps
