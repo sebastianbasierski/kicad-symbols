@@ -2706,6 +2706,10 @@ K DC/DC converter
 F https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj3.pdf
 $ENDCMP
 #
+$CMP MIC4680
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic4680.pdf
+$ENDCMP
+#
 $CMP NCS1S1203SC
 D Isolated 1W 4:1 input DC/DC converter module, 4.5-18V input voltage, 3.3V output voltage, SIP
 K Murata isolated isolation dc-dc converter step-down
