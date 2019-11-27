@@ -132,6 +132,18 @@ K charge pump voltage converter shutdown
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001358D.pdf
 $ENDCMP
 #
+$CMP TPS60151DRV
+D 5V, 140mA charge-pump, WSON-6
+K charge pump
+F https://www.ti.com/lit/ds/symlink/tps60151.pdf
+$ENDCMP
+#
+$CMP TPS60403DBVT
+D Unregulated 60-mA Charge Pump Voltage Inverter, Invert Input Supply Voltage
+K Switched capacitor inverter
+F http://www.ti.com/lit/ds/symlink/tps60402.pdf
+$ENDCMP
+#
 $CMP TPS60500DGS
 D 250mA High-Efficiency Step-Down Charge Pump Regulator, Adjustable Output Voltage, MSOP-10
 K Regulator Step-Down Charge Pump TPS Texas Instruments Ti
