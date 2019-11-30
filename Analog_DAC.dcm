@@ -588,6 +588,12 @@ K dac i2c
 F http://ww1.microchip.com/downloads/en/DeviceDoc/22187E.pdf
 $ENDCMP
 #
+$CMP MCP47FEB21A0-E_ST
+D 8-/10-/12-Bit Single/Dual Voltage Output Nonvolatile Digital-to-Analog Converters with I2C Interface, TSSOP-8, SOIC-8
+K DAC 12-bit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005375A.pdf
+$ENDCMP
+#
 $CMP MCP4801
 D 8-Bit D/A Converters with SPI Interface, internal Reference (2.048V)
 K 8-Bit DAC SPI Reference 1ch
