@@ -1638,6 +1638,12 @@ K Linear Regulator 50mA -5V fixed negative
 F http://pe2bz.philpem.me.uk/pdf%20on%20typenumber/I-L/ICL7664.pdf
 $ENDCMP
 #
+$CMP ICL7673
+D Automatic Battery Backup Switch, So-8
+K Automated Backup Switch
+F https://www.tvsat.com.pl/pdf/i/icl7673_int.pdf
+$ENDCMP
+#
 $CMP IFX25401TBV
 D Adjustable LDO Linear Voltage Regulator (TO-263-5)
 K adjustable LDO positive voltage regulator
