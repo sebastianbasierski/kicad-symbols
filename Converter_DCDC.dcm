@@ -2840,6 +2840,10 @@ $CMP RPA60-2424SFW
 D Isolated 60W 4:1 input DC/DC converter module, 9-36V input voltage, 24V output voltage, DIP
 K isolated isolation dc-dc converter step-down
 F https://recom-power.com/pdf/Powerline_DC-DC/RPA60-FW.pdf
+$CMP RFM
+D RECOM 1W Isolated DC/DC Converter Module, 5V Output Voltage, 5V Input Voltage
+K DC/DC converter single
+F https://recom-power.com/pdf/Econoline/RFM.pdf
 $ENDCMP
 #
 $CMP RPM3.3-1.0
