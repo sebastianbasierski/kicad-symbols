@@ -64,6 +64,8 @@ $CMP ADR4550
 D 5.0V,  Ultralow Noise, High Accuracy Voltage Reference, SOIC-8
 K vref
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADR4520_4525_4530_4533_4540_4550.pdf
+$ENDCMP
+#
 $CMP AP431SAN1TR-G1
 D Shunt Regulator, SOT-23
 K diode device shunt regulator
