@@ -12,6 +12,12 @@ K diode TVS voltage suppressor
 F https://www.vishay.com/docs/88301/15ke.pdf
 $ENDCMP
 #
+$CMP 1.5SMC36CA-V6G
+D 1500W unidirectional Surface Mount Transient Voltage Suppressor, SMC
+K diode TVS voltage suppressor
+F https://www.tme.eu/Document/f8cda6eb893d2786aeb18248486b8b0f/1.5SMC33A-R6.pdf
+$ENDCMP
+#
 $CMP 1N4001
 D 50V 1A General Purpose Rectifier Diode, DO-41
 K diode
@@ -3016,6 +3022,12 @@ $CMP SZESD9B5.0ST5G
 D ESD protection diode, 5.0Vrwm, SOD-923
 K diode TVS ESD
 F https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF
+$ENDCMP
+#
+$CMP TGL34-30CA-DIO
+D 150W unidirectional Surface Mount Transient Voltage Suppressor, MiniMELF (DO213AA)
+K diode TVS voltage suppressor
+F https://www.tme.eu/Document/9bde1516908ec192c3b5a07e8cc13ddb/tgl3468.pdf
 $ENDCMP
 #
 $CMP Toshiba_HN1D01FU
