@@ -546,6 +546,12 @@ K relay monostable
 F https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663
 $ENDCMP
 #
+$CMP Fujitsu_FTR-B4
+D Fujitsu Low Profile Power Relay
+K double pole single throw relay
+F https://www.tme.eu/Document/22c496e6afa4d7c9cf6133b17ca48466/ftr-b4.pdf
+$ENDCMP
+#
 $CMP Fujitsu_FTR-F1A
 D Fujitsu Low Profile Power Relay
 K double pole single throw relay
