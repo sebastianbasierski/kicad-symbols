@@ -48,6 +48,12 @@ K P-Channel MOSFET
 F http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf
 $ENDCMP
 #
+$CMP AO4404B
+D 30A Id, 50V Vds, N-Channel Power MOSFET, SOIC-8
+K N-Channel Power MOSFET
+F https://www.tme.eu/Document/ffde24d34ce94ed8e277e626a0ba4727/AO4404B.pdf
+$ENDCMP
+#
 $CMP BF244A
 D 50mA Id, 30V Vgs, N-Channel FET Transistor, TO-92
 K N-Channel FET Transistor Low Voltage
