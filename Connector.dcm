@@ -1781,6 +1781,12 @@ K SIM card UICC
 F  ~
 $ENDCMP
 #
+$CMP SIM_Card_115_BCA0
+D SIM Card
+K SIM card UICC
+F https://cdn.sos.sk/productdata/e4/ef/2b6fc52d/115r-bca0.pdf
+$ENDCMP
+#
 $CMP SODIMM-200
 D SODIMM 200 Pin socket
 K SODIMM SO-DIMM DDR1 DDR2
