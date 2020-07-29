@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AOZ8105CI
+D 4-Channel Low Capacitance TVS Diode Array, DFN-10
+K ESD protection TVS
+F https://www.tme.eu/Document/9921b12e994de30f1deda76293472a29/AOZ8105CI-DTE.pdf
+$ENDCMP
+#
 $CMP CDNBS08-SLVU2.8-4
 D Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SOIC-8
 K ESD protection suppression transient
@@ -12,13 +18,13 @@ K ESD Protection diodes transient suppressor
 F http://www.onsemi.com/pub_link/Collateral/CM1213A-D.PDF
 $ENDCMP
 #
-$CMP D3V3XA4B10LP
+$CMP D3V3XA4B10LP_1
 D 4-Channel Low Capacitance TVS Diode Array, DFN-10
 K ESD protection TVS
 F https://www.diodes.com/assets/Datasheets/D3V3XA4B10LP.pdf
 $ENDCMP
 #
-$CMP DT1240A-08LP3810
+$CMP DT1240A-08LP3810_1
 D Low Capacitance TVS Diode Array, 3.3V Standoff, 8 Channels, UDFN-9
 K usb esd protection suppression transient
 F https://www.diodes.com/assets/Datasheets/DT1240A-08LP3810.pdf
