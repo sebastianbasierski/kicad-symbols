@@ -1,9 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP AM1S-Z
+$CMP AM1S-Z_1
 D Aimtec 1W Isolated DC/DC Converter Module, 3.3V Output Voltage, 9-36V Input Voltage
 K DC/DC converter single
 F http://www.aimtec.com/site/Aimtec/files/Datasheet/HighResolution/AM1S-Z.pdf
+$ENDCMP
+#
+$CMP AP3503E
+D Diode Incorporated 3A DC/DC Buck Converter, 0.9-16.2 Output Voltage, 4.75-18V Input Voltage
+K DC/DC converter single
+F https://www.tme.eu/Document/27e92c6c4f5c9f9cacfb874b73bc1d4b/AP3503E-DTE.pdf
 $ENDCMP
 #
 $CMP ATA00A18S-L
@@ -2818,6 +2824,12 @@ K texas dc-dc converter step down buck
 F https://www.ti.com/lit/ds/symlink/ptn78060w.pdf
 $ENDCMP
 #
+$CMP RFM
+D RECOM 1W Isolated DC/DC Converter Module, 5V Output Voltage, 5V Input Voltage
+K DC/DC converter single
+F https://recom-power.com/pdf/Econoline/RFM.pdf
+$ENDCMP
+#
 $CMP RPA60-2405SFW
 D Isolated 60W 4:1 input DC/DC converter module, 9-36V input voltage, 5V output voltage, DIP
 K isolated isolation dc-dc converter step-down
@@ -2840,12 +2852,6 @@ $CMP RPA60-2424SFW
 D Isolated 60W 4:1 input DC/DC converter module, 9-36V input voltage, 24V output voltage, DIP
 K isolated isolation dc-dc converter step-down
 F https://recom-power.com/pdf/Powerline_DC-DC/RPA60-FW.pdf
-$ENDCMP
-#
-$CMP RFM
-D RECOM 1W Isolated DC/DC Converter Module, 5V Output Voltage, 5V Input Voltage
-K DC/DC converter single
-F https://recom-power.com/pdf/Econoline/RFM.pdf
 $ENDCMP
 #
 $CMP RPM3.3-1.0
